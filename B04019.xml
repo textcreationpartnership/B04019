@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for the printing of a book of William Leybourn's, author of the late Cursus mathematicus, and of divers other mathematical tractates, who hath now by him a miscellaneous manuscript ready for the press, which he intends to entitle Pleasure with profit ...</title>
+            <author>Leybourn, William, 1626-1716.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04019</idno><idno type="EEBO-CITATION">53299148</idno>
+  <idno type="VID">179896</idno>
+  <idno type="EEBO-PROQUEST">2240875190</idno>
+  
+            <idno type="STC">Wing L1934</idno>
+            <idno type="STC">ESTC R179686</idno>
+            <idno type="OCLC">53299148</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04019)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179896)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2808:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for the printing of a book of William Leybourn's, author of the late Cursus mathematicus, and of divers other mathematical tractates, who hath now by him a miscellaneous manuscript ready for the press, which he intends to entitle Pleasure with profit ...</title>
+                  <author>Leybourn, William, 1626-1716.</author>
+                  <author>Leybourn, William, 1626-1716.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton ...,</publisher>
+                  <pubPlace>[London, :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Printing --  Great Britain --  17th century --  Abstracts --  Sources.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal_for_subscribers">
+            <pb facs="tcp:179896:1"/>
+            <head>PROPOSALS For the Printing of a BOOK of William Leybourn's, Author of the late <hi>Cursus Mathematicus,</hi> and of divers other Mathematical Tractates, Who hath now by him a Miscellaneous Manuscript ready for the Press, which he intends to Entitle <hi>Pleasure with Profit:</hi> It Consisting of RECREATIONS of divers kinds, <hi>viz.</hi>
+               <list>
+                  <item>
+                     <hi>Numerical,</hi>
+                  </item>
+                  <item>
+                     <hi>Geometrical,</hi>
+                  </item>
+                  <item>
+                     <hi>Mechanical,</hi>
+                  </item>
+                  <item>
+                     <hi>Optical,</hi>
+                  </item>
+                  <item>
+                     <hi>Astronomical,</hi>
+                  </item>
+                  <item>
+                     <hi>Horometrical,</hi>
+                  </item>
+                  <item>
+                     <hi>Crytographical,</hi>
+                  </item>
+                  <item>
+                     <hi>Statical,</hi>
+                  </item>
+                  <item>
+                     <hi>Magnetical,</hi>
+                  </item>
+                  <item>
+                     <hi>Automatical,</hi>
+                  </item>
+                  <item>
+                     <hi>Chymical,</hi>
+                  </item>
+                  <item>
+                     <hi>Historical,</hi>
+                  </item>
+               </list> Published for Ingenious Spirits to make farther Scrutiny into these (and the like) Sublime Sciences; and to Divert them from following such Vices, as Youth (in this Age) are too much inclin'd.</head>
+            <p>THis Book, when Printed of a good Letter, will contain above <hi>One Hundred</hi> Sheets, with near <hi>Two Hundred</hi> Cutts. And as he hath already Published his Two last Trea<g ref="char:EOLhyphen"/>tises, <hi>viz. Dialling, Plain, Concave, Convex, Projective, Reflective, Refractive,</hi> &amp;c. And <hi>Cursus Mathematicus,</hi> by way of Subscription; he now again offers this to all Lovers of Laudable, Pleasant, and Profitable Recreations.</p>
+            <p>And to the end that This may come to Publick View in his Life-time, he presents the fol<g ref="char:EOLhyphen"/>lowing Overture (for the Promotion of it) to all Masters, Heads, Provosts, Fellows, Scho<g ref="char:EOLhyphen"/>lars, <hi>&amp;c.</hi> of both Universities. — To all Publick and Private Schoolmasters, Ushers, and Scholars under them — To all Gentlemen of Inns of Court or Chancery — And to all other Private Gentlemen of what Degree soever.</p>
+            <list>
+               <head>PROPOSALS as followeth, <hi>viz.</hi>
+               </head>
+               <item>I. THe Subscribers to give Thirteen Shillings and Six Pence for each Book in Quires; whereof Six Shillings to be paid at the time of Subscription, and Seven Shillings Six Pence at the Delivery of the Book.</item>
+               <item>II. To Encourage all Persons that shall Contribute to the procuring Subscriptions for Six Books, they shall have a Seventh <hi>Gratis.</hi>
+               </item>
+               <item>III. All who intend to assist in the Advancement of this Useful Work, are desired to send in their Subscriptions with all speed unto the Persons here under-named, where Printed Re<g ref="char:EOLhyphen"/>ceipts shall be given them; and if they arise to any competent Number, the Book shall be finish'd by <hi>Midsummer</hi> next.</item>
+            </list>
+            <p>The Undertakers are
+<list>
+                  <item>
+                     <hi>Dorman Newman,</hi> at the <hi>King's-Arms</hi> in the <hi>Poultrey.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Baldwin</hi> at the <hi>Oxford-Arms</hi> in <hi>Warwick-lane.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Dunton</hi> at the <hi>Raven</hi> in the <hi>Poultrey.</hi>
+                  </item>
+               </list>
+            </p>
+         </div>
+         <div type="proposed_table_of_contents">
+            <pb facs="tcp:179896:2"/>
+            <head>The CONTENTS.</head>
+            <head>Recreations</head>
+            <list>
+               <head>
+                  <hi>Numerical,</hi> Treating of</head>
+               <item>NUmbers <hi>in general.</hi>
+               </item>
+               <item>Comparative Arithmetick.</item>
+               <item>Arithmetical, Geometrical <hi>and</hi> Musical Proportions.</item>
+               <item>
+                  <hi>Arithmetical</hi> Theorems.</item>
+               <item>
+                  <hi>The</hi> Golden Rule, Single <hi>and</hi> Compounded.</item>
+               <item>
+                  <hi>The</hi> Increase <hi>of</hi> Men, Sheep, Swine, Corn, <hi>&amp;c.</hi>
+               </item>
+               <item>Changes <hi>in</hi> Bells, Voices, Musical Instruments, Letters, Figures, <hi>&amp;c.</hi>
+               </item>
+               <item>
+                  <hi>Arithmetical Versifying, or to make Hexameter and Pentame<g ref="char:EOLhyphen"/>ter Latine Verses, deduced from five or six of the Nine Digits.</hi>
+               </item>
+               <item>Enigmatical Problems, <hi>and other</hi> Numerical Devices.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Geometrical,</hi> Consisting of</head>
+               <item>
+                  <hi>Definitions, and</hi> Practical <hi>Problems.</hi>
+               </item>
+               <item>
+                  <hi>Conclusions</hi> performed without <hi>Compasses.</hi>
+               </item>
+               <item>
+                  <hi>Longimetria,</hi> or Measuring of <hi>Heights</hi> and <hi>Distances.</hi>
+               </item>
+               <item>
+                  <hi>Geodecia,</hi> or Measuring of <hi>Land,</hi> with and without Instrument.</item>
+            </list>
+            <list>
+               <head>Geometrical</head>
+               <item>
+                  <hi>Arithmetick,</hi> in all its Rules.</item>
+               <item>
+                  <hi>Trigonometry,</hi> in all the Cases.</item>
+               <item>
+                  <hi>Astronomy,</hi> in several Solar and Astral Principles.</item>
+               <item>
+                  <hi>Geography,</hi> in distances of Places.</item>
+            </list>
+            <list>
+               <head>Optical, <hi>Containing</hi>
+               </head>
+               <item>Several Problems relating to Colours.</item>
+               <item>Directions how to draw the Figure of any thing, as of Man, a Bird, a Beast, <hi>&amp;c.</hi>
+               </item>
+               <item>Choice Perspective Experiments and Conclusions.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Astronomical,</hi> Treating of</head>
+               <item>A Brief View of the Principles of Astronomy.</item>
+               <item>The <hi>Circles</hi> of the <hi>Sphere,</hi> and their uses.</item>
+               <item>The two Principal <hi>Hypotheses,</hi> viz. <hi>Ptolomean</hi> and <hi>Co<g ref="char:EOLhyphen"/>pernican.</hi>
+               </item>
+               <item>Objections against the <hi>Copernican System</hi> briefly answered.</item>
+               <item>The <hi>Ptolomean System</hi> maintained; by <hi>H. P.</hi>
+               </item>
+               <item>Some of the strongest Arguments (by way of Objection) the Maintainers of the <hi>Ptolomean System</hi> bring against the <hi>Copernican System;</hi> with the Answers the <hi>Coperni<g ref="char:EOLhyphen"/>cans</hi> give unto them.</item>
+               <item>
+                  <hi>Eclipses</hi> of the <hi>Sun</hi> and <hi>Moon,</hi> and the <hi>Causes</hi> of them, <hi>&amp;c.</hi>
+               </item>
+               <item>Schemes or Types of the Eclipses of the Sun and Moon, both <hi>Ptolomean</hi> and <hi>Copernican.</hi>
+               </item>
+               <item>The <hi>Passions, Magnitudes, Motions, Distances</hi> of the <hi>Pla<g ref="char:EOLhyphen"/>nets</hi> and <hi>Fixed Stars.</hi>
+               </item>
+               <item>General <hi>Rules,</hi> for many good Uses, deduced from the Moons Mean Motion.</item>
+               <item>The Constellations of Fixed Stars, giving an Account of their <hi>English, Greek, Hebrew, Arabick, Chaldee, Syriack, Persian, Latin, Turkish,</hi> &amp;c. Names; and of the princi<g ref="char:EOLhyphen"/>pal Stars in each of them; and of the <hi>Via Lactea.</hi> And also the Poetical Fables, alluding to these Asterisms; shew<g ref="char:EOLhyphen"/>ing how they came to be placed in the Heavens; and at what time of the Year any of them will be upon the <hi>Meridi<g ref="char:EOLhyphen"/>an</hi> at Midnight, whereby they may be easily found in the Heavens.</item>
+               <item>The Rudiments of <hi>Astronomy</hi> put into plain Rhyme: By <hi>J. Palmer.</hi>
+               </item>
+            </list>
+            <list>
+               <head>
+                  <hi>Horometrical,</hi> Shewing how</head>
+               <item>To make <hi>Horizontal, Vertical,</hi> and direct <hi>Reclining Dyals</hi> in all Latitudes.</item>
+               <item>
+                  <hi>Tables</hi> for that purpose.</item>
+               <item>From an <hi>Horizontal Dial,</hi> to deduce all other <hi>Dials.</hi>
+               </item>
+               <item>From a <hi>Point</hi> (or <hi>Gnodus</hi>) placed at all Adventures.</item>
+               <item>From a <hi>Hole</hi> in a Glass Window.</item>
+               <item>By help of a <hi>Trigon,</hi> to insert the Equinoctial, Tropicks, and other Signs and Parallels of the Suns Course upon all sorts of Sun-dials; also the <hi>Arimnths, Almicanters,</hi> &amp;c.</item>
+               <item>To make Dials whereby to find the <hi>Hour</hi> by the <hi>Sun</hi> in the Day-time, and by the <hi>Stars</hi> in the Night. <hi>Stars</hi> several ways.</item>
+               <item>Of <hi>Instrumental Sun-dials</hi> and <hi>Nocturnals.</hi>
+               </item>
+            </list>
+            <list>
+               <head>
+                  <hi>Mechanical,</hi> Treating of</head>
+               <item>
+                  <hi>Trochlea,</hi> the <hi>Pulley.</hi>
+               </item>
+               <item>The Inclining Plain.</item>
+               <item>
+                  <hi>Cuneus,</hi> the <hi>Wedge.</hi>
+               </item>
+               <item>
+                  <hi>Axis in Peritrochio,</hi> the <hi>Wheel, Crain</hi> and <hi>Capstern.</hi>
+               </item>
+               <item>
+                  <hi>Cochlea,</hi> the <hi>Screw.</hi>
+               </item>
+               <item>
+                  <hi>Vectis,</hi> the <hi>Leaver.</hi>
+               </item>
+               <item>
+                  <hi>Archimedes</hi> his <hi>Cochlea,</hi> or <hi>Water-Screw,</hi> and how a <hi>Per<g ref="char:EOLhyphen"/>petual Motion</hi> hath been attempted to be performed thereby.</item>
+               <item>
+                  <hi>Engines</hi> for moving of <hi>Great</hi> and <hi>Heavy Bodies.</hi>
+               </item>
+               <item>
+                  <hi>Engines</hi> of <hi>War</hi> used among the Ancients.</item>
+               <item>
+                  <hi>Automata</hi> or <hi>Self-movers,</hi> by <hi>Air, Wind, Water</hi> or <hi>Springs.</hi>
+               </item>
+               <item>The <hi>Magnificent Works</hi> of the Ancients.</item>
+               <item>The Time, and Number of Men employed in the Building of some of these Magnificent Works.</item>
+               <item>The Height of several <hi>Obelisks, Steeples, Pyramids, Pillars,</hi> and other <hi>Monuments</hi> in the World, according to our <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> Measure.</item>
+               <item>Such Admirable Pieces of <hi>Work,</hi> as have been made by seve<g ref="char:EOLhyphen"/>ral Eminent Artists both Ancient and Modern, and some in our present Age.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Statical,</hi> Treating of</head>
+               <item>The Art <hi>Statical.</hi>
+               </item>
+               <item>The <hi>Ballance.</hi>
+               </item>
+               <item>The <hi>Ballance</hi> of <hi>Signeur Galileo Galilei,</hi> for the Discovery of <hi>Mixt Metals,</hi> and of other Irregular Bodies, in respect of <hi>Magnitude</hi> and <hi>Ponderosity.</hi>
+               </item>
+               <item>Statical <hi>Theorem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </item>
+               <item>The Comparison of several <hi>Metals</hi> in <hi>Quantity</hi> and <hi>Weight.</hi>
+               </item>
+               <item>The <hi>Roman</hi> and <hi>English</hi> Foot.</item>
+               <item>
+                  <hi>Weights;</hi> and the Ancient <hi>Roman</hi> and our <hi>English</hi> compared.</item>
+               <item>The <hi>Weight, Worth, Magnitude,</hi> &amp;c. of several <hi>Metals, Waters,</hi> and other <hi>Liquids.</hi>
+               </item>
+               <item>
+                  <hi>Foreign Weights</hi> and <hi>Measures</hi> compared with the <hi>English.</hi>
+               </item>
+               <item>Statical <hi>Experiments.</hi>
+               </item>
+            </list>
+            <list>
+               <head>
+                  <hi>Automatical,</hi> Treating of</head>
+               <item>The making of <hi>Clocks, Watches,</hi> and other <hi>Movements.</hi>
+               </item>
+               <item>
+                  <hi>Pendulums,</hi> and their <hi>Vibrations.</hi>
+               </item>
+               <item>The <hi>Equation of Time,</hi> and a <hi>Table</hi> thereof.</item>
+               <item>
+                  <hi>Rules</hi> for the true adjusting, and right managing of <hi>Pendu<g ref="char:EOLhyphen"/>lum Clocks, Watches,</hi> &amp;c.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Magnetical,</hi> Discoursing of</head>
+               <item>
+                  <hi>The</hi> Magnet, <hi>or</hi> Load-stone.</item>
+               <item>
+                  <hi>The</hi> Attractive <hi>Virtue of the</hi> Load-stone.</item>
+               <item>
+                  <hi>The</hi> Sympathetical <hi>and</hi> Antipathetical <hi>Property of the</hi> Load-stone.</item>
+               <item>
+                  <hi>The</hi> Cutting <hi>or</hi> Dividing <hi>of</hi> Load-stones.</item>
+               <item>
+                  <hi>Finding of the</hi> Poles <hi>of</hi> Load-stones.</item>
+               <item>
+                  <hi>An</hi> Essay <hi>of a</hi> Perpetual Motion <hi>by</hi> Load-stones.</item>
+               <item>Magnetical Inclination.</item>
+               <item>Megnetical Experiments.</item>
+            </list>
+            <list>
+               <head>Crytographical, <hi>Discovering</hi>
+               </head>
+               <item>Several ways used by the <hi>Ancients</hi> for their secret Conveyances.</item>
+               <item>Several other ways, for secret Conveyances; as
+<list>
+                     <item>By Common Letters of the Alphabet as they are.</item>
+                     <item>By the Alphabetical Letters transposed.</item>
+                     <item>By an Astronomical Alphabet.</item>
+                     <item>By Knots upon a String.</item>
+                     <item>By Juices, Liquors, <hi>&amp;c.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>
+                  <hi>Chymical,</hi> Discoursing of</head>
+               <item>Artificial Representations.</item>
+               <item>Of the <hi>Fire</hi> of <hi>Vestals.</hi>
+               </item>
+               <item>The <hi>Philosophers Tree.</hi>
+               </item>
+               <item>The <hi>Reanimation</hi> of <hi>Simples.</hi>
+               </item>
+               <item>The <hi>Representation</hi> of the <hi>Great World.</hi>
+               </item>
+               <item>A <hi>Perpetual Motion.</hi>
+               </item>
+               <item>The making of <hi>Gold.</hi>
+               </item>
+               <item>Incombustible <hi>Flux.</hi>
+               </item>
+               <item>
+                  <hi>Subterraneous Lamps.</hi>
+               </item>
+            </list>
+            <list>
+               <head>
+                  <hi>Historical,</hi> Treating of</head>
+               <item>The first <hi>Authors</hi> of divers <hi>Inventions.</hi>
+               </item>
+               <item>The <hi>Measures</hi> and Proportions of the <hi>Members</hi> of <hi>Mans Body.</hi>
+               </item>
+               <item>Men or <hi>Giants</hi> of Prodigious <hi>Stature.</hi>
+               </item>
+               <item>
+                  <hi>Dwarfs, Pigmies,</hi> or <hi>Men</hi> and <hi>Women</hi> of Lower than or<g ref="char:EOLhyphen"/>dinary <hi>Stature.</hi>
+               </item>
+               <item>
+                  <hi>Monsters</hi> and Prodigious <hi>Births.</hi>
+               </item>
+               <item>Artificial <hi>Monsters.</hi>
+               </item>
+               <item>The <hi>Length</hi> of <hi>Age</hi> which <hi>Men</hi> lived in former Times, shortly after the Creation; and of others of later date.</item>
+            </list>
+            <p>These PROPOSALS are to be had of any of the three Undertakers.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Dunton</hi> at the <hi>Raven</hi> in the <hi>Poultrey,</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
